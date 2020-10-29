@@ -33,6 +33,7 @@ follows:
 
 7) Figures displayed in manuscript:
 *_figures.m
+*_figures_updated.m # updated version of the script for the figures!
 
 For most of the .m scripts, EEGLAB is required, as well as Brainstorm for the
 source reconstruction.
